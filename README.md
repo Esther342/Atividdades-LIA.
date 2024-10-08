@@ -1,3 +1,3 @@
-# Atividdades-LIA.
+# Atividades-LIA.
 Atividades 2 bimestre
-# Exercicio_em_Sala_1 : Programa BLINK
+
